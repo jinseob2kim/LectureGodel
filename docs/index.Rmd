@@ -78,6 +78,94 @@ class: center, middle
 
 # 수학의 추상화
 
+---
+# $\infty$
+
+.large[
+18/19 세기 미적분학, 해석학의 발달
+
+
+* 수렴과 극한: 1 에 **무한**히 접근한다.
+
+
+* 발산: **무한**히 커진다, 혹은 진동한다
+
+
+**무한** $(\infty)$ 은 무엇일까? 
+]
+
+
+---
+# 사칙연산 파괴
+
+.large[
+$$\infty + \infty = \infty$$ 
+
+
+$$\infty - \infty = 0$$
+
+
+$$\infty \times \infty = \infty$$
+]
+
+.large[이래도 되나?]
+
+---
+# 힐베르트 호텔
+
+손님을 무한히 받을 수 있는 호텔?
+
+<iframe width="700" height="420" src="https://www.youtube.com/embed/Uj3_KqkI9Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+# 교환법칙 성립?
+
+.large[
+$$1 + \infty = \infty$$ 
+
+
+$$\infty + 1 \neq \infty$$
+
+비유 
+
+* 약간 기분 나쁠 때 ( 1 ) + 엄청 기분 나쁜일 ( $\infty$ ) 을 겪는다면? 
+
+    + 기분이 엄청 나빠짐 ( $\infty$ )
+
+* 엄청 기분 나쁠 때 ( $\infty$ ) + 약간 기분 나쁜일 ( 1 ) 을 겪는다면? 
+
+    + 대형 사고 가능성 (무한보다 더 큰 무한?)
+
+]
+
+---
+# 집합 크기 비교
+
+.large[
+
+* 홀수 < 자연수, 짝수 < 자연수?
+
+
+* 자연수 < 정수?
+
+
+* 자연수 < 유리수?
+
+
+* 자연수 < 실수?
+]
+
+--
+.large[> 대수학자 가우스마저 "**무한은 수학적 가치가 없다!**" 고 일갈]
+
+
+---
+# 추천도서
+
+[![](https://i.ytimg.com/vi/8Mj2u-iZkvA/maxresdefault.jpg)](http://www.yes24.com/Product/Goods/66820470)
+
+
 
 ---
 
@@ -85,12 +173,153 @@ class: center, middle
 
 # 집합론: 무한의 엄밀한 정의
 
+---
+# 칸토어(Georg Cantor)의 집합론
+.large[
+무한의 크기를 비교하기 위해 **무한집합의 크기**를 정의.
+
+
+* 정의 1: 자연수집합의 크기를 $\aleph_0$ 라 한다. 
+
+
+* 정의 2: 두 집합에 **1:1 대응이 존재**한다면 두 집합의 크기는 **같다**.
+
+
+> 자연수집합의 크기를 **셀 수 있는 무한**(가산무한) 이라 한다.
+]
+
+
+
+---
+
+```{r}
+include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aplicaci%C3%B3n_2_inyectiva_sobreyectiva04.svg/220px-Aplicaci%C3%B3n_2_inyectiva_sobreyectiva04.svg.png")
+```
+
+> **자연수의 갯수 = 짝수의 갯수**
+
+--
+
+```{r}
+include_graphics("https://blogfiles.pstatic.net/MjAxODAxMThfMTg5/MDAxNTE2MjM4OTU0NTYz.rz0p9sLwc_NgV_7-0CQ48e4mGBX67hvJzT2h7okb89Eg.xS8Al2DSb-yB72IQmEBb7iwEmqmzIaJuhMyKoJh6ZVsg.PNG.duxogn08/%EA%B7%B8%EB%A6%BC4.png")
+```
+
+> **자연수의 갯수 = 정수의 갯수**
+
+---
+# 자연수의 갯수 = 유리수의 갯수
+
+```{r}
+include_graphics("https://t1.daumcdn.net/cfile/tistory/26240333547D6D7C11")
+```
+
+---
+# But, 자연수의 갯수 < 실수의 갯수
+
+.large[
+[칸토어의 대각선 논법(Cantor's diagonal argument)](https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B0%81%EC%84%A0_%EB%85%BC%EB%B2%95)
+
+
+* **0과 1 사이의 실수** 집합이 **자연수** 집합보다 큼을 증명. 
+
+
+* 귀류법: 1:1 대응이 존재함을 가정한 후, 대응이 존재하지 않는 새로운 실수를 제안. 
+
+]
+
+
+---
+
+```{r}
+include_graphics("https://image3.slideserve.com/5709447/slide20-n.jpg")
+```
+
+---
+
+.large[포켓몬 모으는 방법의 갯수는 자연수의 갯수보다 크다.]
+
+
+<iframe width="700" height="420" src="https://www.youtube.com/embed/dEOBDIyz0BU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+# 실수집합의 크기
+
+.large[
+* 정의 4: 실수집합의 크기를 $|\mathbb R| = \aleph_1$ 라 한다. 
+
+
+$$\aleph_1 > \aleph_0$$
+
+> 실수보다 작고 자연수보다 큰 무한이 존재할까? **연속체 가설**
+]
 
 ---
 
 class: center, middle
 
 # 자기언급의 역설
+
+
+---
+# 집합론 good!!
+
+.large[
+* 20세기 수학자들은 집합론을 이용, 수학의 기초를 구성하고 모순이 없는 수학체계를 만들 수 있다는 꿈으로 부풀어 있었다.
+
+
+* 그러나 정작 **"집합이란 무엇인가?"** 에 대해서는 깊게 생각하지 않았다.
+
+
+> 그리고 온갖 역설이 발견된다.
+]
+
+
+---
+# 거짓말쟁이 역설
+
+```{r}
+include_graphics("https://3.bp.blogspot.com/-Xk7t3-9VNF4/WsMEigQ2r_I/AAAAAAAAtUY/a_F8bETxDD8V9ddGWOmyIbg_YLG_fLGXwCLcBGAs/s1600/np-43-728.jpg")
+```
+
+---
+# 이발사 역설 
+
+```{r, out.width="85%"}
+include_graphics("http://mblogthumb3.phinf.naver.net/20160322_234/chosun_ccg_1458628199496F2Npc_JPEG/111222.jpg?type=w800")
+```
+
+이발사 자신의 수염은?
+
+---
+# M. Escher: 손을 그리는 손
+
+```{r, out.width="70%"}
+include_graphics("http://postfiles16.naver.net/20100109_191/corazon27_1263017643108wXiID_jpg/%EA%B7%B8%EB%A6%BC_%EA%B7%B8%EB%A6%AC%EB%8A%94_%EC%86%90_corazon27.jpg?type=w3")
+```
+
+
+---
+# 러셀의 역설
+
+**"자신을 원소로 포함하지 않는 모든 집합들의 집합"** $M$은 자기 자신을 포함하는가?
+
+
+```{r}
+include_graphics("https://i.pinimg.com/originals/f5/47/67/f547671a11f0d782ae264bdce7750dc4.gif")
+```
+
+.large[자신을 원소로 포함하는 집합?]
+
+
+---
+# 자기언급의 역설 
+
+> **"명제에 자기 자신을 언급하는 것"**이 역설의 원인이다.
+
+
+.large[자신을 원소로 포함하는 집합?]
 
 
 ---
