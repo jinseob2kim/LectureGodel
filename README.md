@@ -1,7 +1,7 @@
 # LectureGodel
 Lecture: Kurt Gödel's Incompleteness theorem
 
-* [제주대학교 경영정보대학](http://mis.jejunu.ac.kr/) 특강 - https://jinseob2kim.github.io/LectureGodel/
+* [제주대학교 경영정보대학](http://mis.jejunu.ac.kr/) 특강 - https://blog.zarathu.com/posts/2019-05-20-godelincompleteness/
 
 
 ## 요약
