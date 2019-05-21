@@ -173,7 +173,7 @@ include_graphics("https://gif.fmkorea.com/files/attach/new/20161129/486616/49181
 ---
 # 추천도서
 
-[![](https://i.ytimg.com/vi/8Mj2u-iZkvA/maxresdefault.jpg)](http://www.yes24.com/Product/Goods/66820470)
+[![](https://i.ytimg.com/vi/8Mj2u-iZkvA/maxresdefault.jpg)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=170464173)
 
 
 
@@ -277,7 +277,7 @@ class: center, middle
 
 .pull-left[
 ```{r, out.width="100%"}
-include_graphics("http://image.yes24.com/Goods/61958728/800x0")
+include_graphics("https://image.aladin.co.kr/product/11328/50/cover500/8972916382_1.jpg")
 ```
 ]
 
@@ -314,17 +314,17 @@ include_graphics("https://3.bp.blogspot.com/-Xk7t3-9VNF4/WsMEigQ2r_I/AAAAAAAAtUY
 ---
 # 이발사 역설 
 
-```{r, out.width="85%"}
-include_graphics("http://mblogthumb3.phinf.naver.net/20160322_234/chosun_ccg_1458628199496F2Npc_JPEG/111222.jpg?type=w800")
+```{r, out.width="60%"}
+include_graphics("https://www.ebsmath.co.kr/innovativelrms/web_lrms/content/resource/PC//28412/1524014241952.PNG")
 ```
 
-이발사 자신의 수염은?
+
 
 ---
 # M. Escher: 손을 그리는 손
 
 ```{r, out.width="70%"}
-include_graphics("http://postfiles16.naver.net/20100109_191/corazon27_1263017643108wXiID_jpg/%EA%B7%B8%EB%A6%BC_%EA%B7%B8%EB%A6%AC%EB%8A%94_%EC%86%90_corazon27.jpg?type=w3")
+include_graphics("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavA1zG6qfdC3zlHxnSu0dVKk_bQ2XOPWyjnIsq6xSWsqGvzsFhQ")
 ```
 
 
@@ -376,7 +376,7 @@ class: center, middle
 class: center, middle
 
 ```{r, out.width="50%"}
-include_graphics("http://image.yes24.com/goods/4357464/L")
+include_graphics("https://image.aladin.co.kr/product/802/16/cover500/8961390341_1.jpg")
 ```
 
 ---
@@ -412,7 +412,7 @@ $$``1 + 1 = 2" \text{ 이다.}$$
 --
 
 ```{r, out.width="50%"}
-include_graphics("http://cfs10.blog.daum.net/image/7/blog/2007/09/22/21/58/46f5118794ac3&filename=ASCII_merlin_detail_00031-ybh333y.gif")
+include_graphics("zakzak.gif")
 ```
 
 ---
@@ -532,7 +532,7 @@ $$ 2^m \times 3^n $$
 
 --
 ```{r, out.width="50%"}
-include_graphics("http://cfs10.blog.daum.net/image/7/blog/2007/09/22/21/58/46f5118794ac3&filename=ASCII_merlin_detail_00031-ybh333y.gif")
+include_graphics("zakzak.gif")
 ```
 
 ---
@@ -550,7 +550,7 @@ $$ 243,000,000 = 2^6 \times 3^5 \times 5^6 $$
 --
 
 ```{r, out.width="50%"}
-include_graphics("http://cfs10.blog.daum.net/image/7/blog/2007/09/22/21/58/46f5118794ac3&filename=ASCII_merlin_detail_00031-ybh333y.gif")
+include_graphics("zakzak.gif")
 ```
 
 ---
