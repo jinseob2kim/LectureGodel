@@ -600,7 +600,7 @@ class: center, middle
 ]
 
 ```{r, out.width="50%"}
-include_graphics("https://dcimg4.dcinside.co.kr/viewimage.php?id=2cb2d521e4df3d&no=24b0d769e1d32ca73fee82fa11d02831f7b1fdb67b76037d9d6c024c247c057fb2f51774dc6693417620532f563a069f071df1a1d03e9bb6f101c258d73d5a26c77505d4942033402b62fdd90cab4faaa0c55375b6ddd5b9d882")
+include_graphics("http://optimal.inven.co.kr/upload/2017/12/06/bbs/i14690814685.gif")
 ```
 
 
