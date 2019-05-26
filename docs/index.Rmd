@@ -793,7 +793,7 @@ $G$는 참이지만 증명 불가능하다!!
 class: center, middle
 
 ```{r, out.width="80%"}
-include_graphics("https://img-direct.theqoo.net/img/nWlME.gif")
+include_graphics("https://extmovie.maxmovie.com/xe/files/attach/images/148/985/080/022/7840370d6f0e56cb6738ab60cb50625a.gif")
 ```
 
 
